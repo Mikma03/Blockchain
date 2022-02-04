@@ -89,3 +89,29 @@ But this only works when the given amount of data is very less. What happens whe
 
 > [What is Hashing on the Blockchain?](https://www.youtube.com/watch?v=IGSB9zoSx70&ab_channel=Blockgeeks)
 
+
+# Transaction Integrity 
+
+>[Link](https://hbr.org/2017/03/how-safe-are-blockchains-it-depends)
+
+
+
+Blockchain, the distributed ledger technology underlying bitcoin, may prove to be far more valuable than the currency it supports. But it’s only as valuable as it is secure. As we begin to put distributed ledger technology into practice, it’s important to make sure that the initial conditions we’re setting up aren’t setting us up for security issues later on.
+
+To understand the inherent security risks in blockchain technology, it’s important to understand the difference between public and private blockchains.
+
+One of the first decisions to make when establishing a private blockchain is about the network architecture of the system. Blockchains achieve consensus on their ledger, the list of verified transactions, through communication, and communication is required to write and approve new transactions. This communication occurs between nodes, each of which maintains a copy of the ledger and informs the other nodes of new information: newly submitted or newly verified transactions. Private blockchain operators can control who is allowed to operate a node, as well as how those nodes are connected; a node with more connections will receive information faster. Likewise, nodes may be required to maintain a certain number of connections to be considered active. A node that restricts the transmission of information, or transmits incorrect information, must be identifiable and circumventable to maintain the integrity of the system. A private blockchain underlying commodities trading may grant more-central positions in the network to established trading partners, and may require new nodes to maintain a connection to one of these central nodes as a security measure to ensure it behaves as expected
+
+>[Link](https://infospectives.co.uk/blockchains-embedding-integrity/)
+
+While the implications are huge, there are key things it was never designed to do. It does not check the identity of asset owners before a first transaction is submitted. It just maintains the relationship between asset owner and transactions over time. Initially validating an individual’s entitlement to transact, and their ownership of referenced assets stored outside the blockchain, happens independently.
+
+In other words; If trading Bitcoins, you might be doing business with a drug baron. If that doesn’t send your moral compass into a spin, you can rest assured that the drug baron possesses the currency promised and can’t pretend the trade didn’t happen.
+In this Lawfare podcast Nick Weaver (senior staff researcher at the International Computer Science Institute in Berkeley, California and staunch Bitcoin sceptic), gives his own take on Bitcoin basics, and whether it’s really an historic financial opportunity, massive criminal problem, or something else entirely: a waste of everyone’s time and money.
+
+He argues (to protect everyone from fraud), electronic transactions need to be reversible, which Bitcoin transactions are not…without the private keys. He talks a lot about Chinese domination of Bitcoin generation and Chinese coal being burned to power what he dubs “useless work” a.k.a hash generation.
+
+Bitcoin enforces decreasing production returns (currently 25 Bitcoins, plus transaction fees) to combat mining monopolies. The bitcoin protocol specifies that the reward for adding a block will be halved approximately every four years (here’s a counter point for the environmental – if not political and fraud – concerns). Eventually, the Bitcoin reward will decrease to zero – transaction fees will be all folk get – and the limit of 21 million bitcoins will be reached in around 2140. That doesn’t however combat ponzi schemes (where Bitcoin investors are paid returns out of money invested by others, rather than any actual earnings), another key theme in the podcast.
+
+Nick’s primary argument is that criminals see opportunities for returns far beyond Bitcoin market value (due to the anonymous and therefore criminal-friendly aspects of exchange), so racing to reap and control coins through production offers dark opportunities that justify a loss-making investment in production means. Together with potential for market instability (including DDoSing or spamming to disrupt transactions), he argues Bitcoin will never evolve into a value-stabilised competitive currency. Instead it will die a death through breaking or being regulated out of existence…and so what? According to Weaver only criminals, crypto/techno anarchists, and a few misguided venture capitalists will really mourn it.
+As I said earlier on, blockchain (as distinct from Bitcoin), is just plumbing. Digitally innovative and game-changing plumbing, but plumbing nonetheless…
