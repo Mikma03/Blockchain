@@ -5,7 +5,7 @@
 
 1. [Introduction](#Introduction)
 
-2. 
+2. [Blockccain Basic](#Blockccain-Basic)
 
 
 <p>&nbsp;</p>
@@ -15,11 +15,11 @@
 
 <p>&nbsp;</p>
 
-teste test test
+This section in this repository consist of books that are connected with blockchain and blockchain ecosystem.
 
 <p>&nbsp;</p>
 
-# Blockcjain Basic
+# Blockccain Basic
 
 <p>&nbsp;</p>
 
