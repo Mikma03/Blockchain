@@ -57,3 +57,7 @@ The only coin that uses proof of burn is slimcoin, a cryptocurrency based on pee
 
 [Review of blockchain consensus mechanisms](https://medium.com/wavesprotocol/review-of-blockchain-consensus-mechanisms-f575afae38f2)
 
+
+
+
+
