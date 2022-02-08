@@ -54,6 +54,19 @@ Co to jest ipfs:
 
 https://www.youtube.com/watch?v=djES6W3yzwQ
 
+https://www.youtube.com/watch?v=5Uj6uR3fp-U
+
+
+# step8
+
+curl in Windows
+
+https://stackoverflow.com/questions/2710748/run-curl-commands-from-windows-console
+
+ale w tym tutorualu mozna to zrobic w Pythonie full
+
+
+
 
 
 
