@@ -1,5 +1,9 @@
 # NFT/ERC-721/Collectible END-TO-END TUTORIAL | Deploy, List on Opensea, Host Metadata on IPFS
 
+To sa linki do tutorialu jak zrobic deployment on chain NFT
+
+# Pierwszy
+
 > [Link to this tutorial](https://www.youtube.com/watch?v=p36tXHX1JD8)
 
 <p>&nbsp;</p>
