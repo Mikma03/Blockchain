@@ -16,3 +16,45 @@
 > inicjalizacja pustego projektu brownie `brownie init`
 
 beda tam foldery puste w srodku, do ktorych bedziemy pisac kod
+
+# step3
+
+- podstawowe info o NFT - erc721
+
+https://docs.openzeppelin.com/contracts/3.x/erc721
+
+- GitHub o tych kontraktach:
+
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol
+
+
+# step4
+
+zioemk na tym tutorialu pokazuje jak kompilowac za pomoca brownie
+
+
+# step5
+
+testy na Pythonie na local hoscie
+
+instalujemy za pomoca node:
+
+> `npm install -g ganache-cli`
+
+
+# step6
+
+- pomysl: kazdy artysta bedzie mial zakladane konto na szaje platformie przez metamask, my bedziemy mieli dostep do tyhc kont i bedziemy robi deployment na tych kontach Metamaskowych na danym chainie
+
+- zablokowanie innym uzytkownikom moliwosci kopanai NFT i dodawania kolekcji z poziomu konta uzytkownika 
+
+# step7
+
+Co to jest ipfs:
+
+https://www.youtube.com/watch?v=djES6W3yzwQ
+
+
+
+
+
