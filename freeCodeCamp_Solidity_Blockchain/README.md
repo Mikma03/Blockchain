@@ -12,20 +12,19 @@
 
 # Introduction
 
-test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
 
 
 <p>&nbsp;</p>
 
 # Resources
 
-
+Main materials used in this repository
 
 <p>&nbsp;</p>
 
-[Link to thi course - YT](https://www.youtube.com/watch?v=M576WGiDBdQ)
+> [Link to thi course - YT](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
-[Link to GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-py#resources-for-this-course)
+> [Link to GitHub](https://github.com/smartcontractkit/full-blockchain-solidity-course-py#resources-for-this-course)
 
 
 <p>&nbsp;</p>
@@ -35,6 +34,8 @@ Learn how to install all the tools you will need for this course on a windows ma
 > [Link](https://medium.com/@cromewar/how-to-setup-windows-10-11-for-smart-contract-development-and-brownie-e7d8d13555b3)
 
 
-How blockchain work
+<p>&nbsp;</p>
 
-> [Link to great tutorials](https://andersbrownworth.com/blockchain/)
+How blockchain work:
+
+> [Link to tutorial](https://andersbrownworth.com/blockchain/)
